@@ -1,8 +1,7 @@
-# mizuka_y
+# mizuka_yamazaki
 Backend Engineer (Python / FastAPI)
 
-BootcampでWeb開発を学び、バックエンドを中心に開発しています。  
-外部API連携やデータ処理、シンプルで使いやすいサービス設計に興味があります。
+Building APIs, connecting services, and sometimes a ramen bot.
 
 ## Projects
 
@@ -33,7 +32,7 @@ https://github.com/mizuka1110/tumugu-yamazaki
 ## Skills
 
 Backend  
-Python / FastAPI / PostgreSQL
+Python / FastAPI / PostgreSQL / MySQL 
 
 Frontend  
 TypeScript / Next.js
