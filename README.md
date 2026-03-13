@@ -29,16 +29,13 @@ GitHub
 https://github.com/mizuka1110/tumugu-yamazaki
 
 
-## Skills
+## Tech
 
-Backend  
-Python / FastAPI / PostgreSQL / MySQL 
-
-Frontend  
-TypeScript / Next.js
-
-Infrastructure  
-Supabase / Render
+Python / FastAPI  
+TypeScript / React / Next.js  
+PostgreSQL / MySQL  
+Docker / Supabase / Render  
+LINE Messaging API / Google Places API
 
 
 ## Links
